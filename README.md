@@ -28,28 +28,6 @@ I'm a **React-focused frontend developer** who enjoys building interactive web a
 
 ---
 
-### 📊 **Analyse Character Count**
-**Tech:** React · Tailwind CSS  
-**Features:**
-- Real-time text analysis
-- Character and text statistics
-- Light/Dark theme switching  
-
-🔗 **Live Demo:** https://analyse-character-count.vercel.app/
-
----
-
-### 🍽️ **Quick Recipes**
-**Tech:** HTML · CSS · JavaScript  
-**Features:**
-- Search for recipes
-- View detailed recipe information
-- Simple and beginner-friendly frontend project  
-
-🔗 **Live Demo:** https://udayagupta.github.io/recipe-finder/
-
----
-
 ## 🛠️ Tech Stack
 
 - **Primary:** React, JavaScript
