@@ -7,11 +7,21 @@ I'm a **React-focused frontend developer** who enjoys building interactive web a
 ## 🚀 Featured Projects
 
 ### 🧭 **PokeDexplorer**
-**Tech:** React · Tailwind CSS · PokeAPI  
-**Features:**
-- Fetches Pokémon data from the PokeAPI
-- Search for Pokémon by name
-- Clean and responsive UI built with Tailwind  
+**Tech:** React · React Router · Tailwind CSS · PokeAPI  
+
+**Overview:**  
+A fully-featured Pokémon exploration platform that dynamically fetches and structures complex data from the PokeAPI into an intuitive, responsive interface.
+
+**Key Features:**
+- Deep integration with multiple PokeAPI endpoints (species, evolution chain, encounters, stats, forms)
+- Dynamic game-version flavor text descriptions
+- Complete evolution chain rendering with evolution conditions (level, item, trade, time, etc.)
+- Breeding & training data (egg groups, gender ratio, EV yield, growth rate, catch rate)
+- Base stats with calculated minimum & maximum stat ranges
+- Game-specific encounter location mapping
+- Seamless Next / Previous Pokémon navigation system
+- Fully responsive UI with structured component-based architecture
+- Optimized data handling for nested and relational API responses
 
 🔗 **Live Demo:** https://pokedexplorer-roan.vercel.app/
 
