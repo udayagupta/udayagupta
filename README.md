@@ -28,11 +28,12 @@ A fully-featured Pokémon exploration platform that dynamically fetches and stru
 ---
 
 ### ⚔️ **Witcher Text-Based RPG** *(Work in Progress)*
-**Tech:** React · Tailwind CSS  
+**Tech:** React · Tailwind CSS · Framer Motion  
 **Features:**
-- Text-based RPG inspired by the Witcher universe
-- Fight Witcher-based monsters
-- Gameplay and mechanics under active development  
+- **Lore-Accurate Exploration:** Travel across iconic regions like White Orchard, Novigrad and Velen, discovering unique sub-locations.
+- **Tactical Combat:** Hunt a vast bestiary of monsters by exploiting their specific vulnerabilities with Witcher Signs and Oils.
+- **Dynamic Economy:** Trade with regional merchants, blacksmiths, and armorers using a balanced Crown-based economy.
+- **Gathering & Loot:** Scavenge the environment for resources and harvest monster-specific drops (like Wyvern Scales and Wraith Dust) for crafting.
 
 🔗 **Repository:** https://github.com/udayagupta/witcher-rpg.git
 
