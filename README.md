@@ -27,13 +27,20 @@ A fully-featured Pokémon exploration platform that dynamically fetches and stru
 
 ---
 
-### ⚔️ **Witcher Text-Based RPG** *(Work in Progress)*
-**Tech:** React · Tailwind CSS · Framer Motion  
-**Features:**
-- **Lore-Accurate Exploration:** Travel across iconic regions like White Orchard, Novigrad and Velen, discovering unique sub-locations.
-- **Tactical Combat:** Hunt a vast bestiary of monsters by exploiting their specific vulnerabilities with Witcher Signs and Oils.
-- **Dynamic Economy:** Trade with regional merchants, blacksmiths, and armorers using a balanced Crown-based economy.
-- **Gathering & Loot:** Scavenge the environment for resources and harvest monster-specific drops (like Wyvern Scales and Wraith Dust) for crafting.
+### ⚔️ **The Witcher: Text-Based RPG**
+**Tech:** React · Zustand · Tailwind CSS · Vite 
+
+**Overview:** A highly interactive, browser-based role-playing game that translates the complex mechanics of *The Witcher* universe into a text-driven experience. Built with a focus on deep state management, dynamic economies, and probability-based exploration.
+
+**Key Features:**
+- **Advanced State Management:** Leveraged Zustand with selective local storage persistence (`partialize`) to save player progression while safely resetting transient UI and combat states on reload.
+- **Dynamic Economy & Restocking:** Engineered a persistent merchant system that seamlessly merges default inventory restocks with items the player has previously sold to them upon meditating.
+- **Probability-Based Foraging:** Created a real-time scavenging system with health-scaled cooldown timers, visual progress bars, and randomized loot pools based on region-specific drop rates.
+- **Crafting & Alchemy Engine:** Real-time inventory validation against complex recipe requirements across multiple categories (Weapons, Armor, Potions, Components).
+- **Relational Data Architecture:** Designed a deeply nested JSON database managing interconnected regions, sub-locations, monster encounters, and merchant.
+- **Intelligent UI/UX Tooltips:** Implemented edge-aware tooltips (`react-tooltip`) that perform reverse-lookups on the database to show exactly where missing crafting materials can be found.
+- **Integrated Fast-Travel:** Interactive, clickable location hints within item tooltips that tie directly into the game's routing and navigation state.
+- **"Dark Fantasy" UI:** Custom-styled, immersive interface built with Tailwind CSS, featuring smooth transitions and thematic typography.
 
 🔗 **Repository:** https://github.com/udayagupta/witcher-rpg.git
 
