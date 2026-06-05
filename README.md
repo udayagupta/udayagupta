@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Udaya Gupta
 
-I'm a **React-focused frontend developer** who enjoys building interactive web apps using modern tools and clean UI practices. I like working on real-world projects, experimenting with APIs, and continuously improving my React skills.
+I'm a **Frontend Developer with Full-Stack Experience** who enjoys building interactive web apps using modern tools and clean UI practices. I like working on real-world projects, experimenting with APIs, and continuously improving my React skills.
 
 ---
 
@@ -24,6 +24,25 @@ A fully-featured Pokémon exploration platform that dynamically fetches and stru
 - Optimized data handling for nested and relational API responses
 
 🔗 **Live Demo:** https://pokedexplorer-roan.vercel.app/
+
+---
+
+### 🏥 **Healthcare Appointment System**
+
+**Tech:** React · Tailwind CSS · Node.js · Express.js · MongoDB · JWT
+
+**Overview:**
+A full-stack healthcare platform that enables patients to book appointments and doctors to manage schedules through secure role-based portals.
+
+**Key Features:**
+
+* JWT-based authentication with separate Patient and Doctor dashboards
+* Automated appointment slot generation based on working hours and breaks
+* Smart appointment booking with doctor specialization filtering
+* Appointment management system with booking, completion, and cancellation workflows
+* MongoDB-powered backend following MVC architecture
+
+🔗 **Repository:** https://github.com/udayagupta/hospital-appointment-system.git
 
 ---
 
