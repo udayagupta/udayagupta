@@ -2,11 +2,6 @@
 
 I'm a **Frontend Developer with Full-Stack Experience** who enjoys building interactive web apps using modern tools and clean UI practices. I like working on real-world projects, experimenting with APIs, and continuously improving my React skills.
 
-## Resume
-
-[View My Resume](https://drive.google.com/file/d/11Fo3nVrS7jtb9_GpW4iP15FiByVQgMx3/view?usp=drive_link) 
-
----
 
 ## 🚀 Featured Projects
 
